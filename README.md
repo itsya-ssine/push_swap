@@ -246,7 +246,7 @@ https://www.geeksforgeeks.org/dsa/radix-sort/
 
 ### Use of Artificial Intelligence
 
-- Artificial Intelligence tools were used as a support resource to better understand algorithmic concepts and project requirements. AI assistance was limited to:
+#### Artificial Intelligence tools were used as a support resource to better understand algorithmic concepts and project requirements. AI assistance was limited to:
 - Helping analyze complexity and optimization strategies
 - Assisting with debugging logic and edge case reasoning
 - Improving documentation clarity
